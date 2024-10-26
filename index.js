@@ -6,3 +6,4 @@ if (userAge >= 18) {
 } else {
   console.log("Вы НЕ совершеннолетний");
 }
+ console.log('test');
